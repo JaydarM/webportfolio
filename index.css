@@ -1,0 +1,60 @@
+* {
+	font-family: "Rubik", sans-serif;
+}
+
+#logo {
+	font-weight: bolder;
+}
+
+footer {
+	background-color: #021526;
+	color: #E2E2B6;
+}
+
+#navbar {
+	background-color: #021526 !important;
+}
+
+nav a, nav button, nav button span {
+	color: #E2E2B6 !important;
+}
+
+#landing {
+	background: linear-gradient(
+		rgb(3, 52, 110, 0.75),
+		rgb(2, 21, 38, 0.9)
+	), url("./images/landing-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: #E2E2B6;
+}
+
+#tools, #modal-header {
+	background-color: #03346E;
+	color: #E2E2B6;
+}
+
+#projects {
+	background-color: #E2E2B6;
+	color: #03346E;
+}
+
+#contact {
+	background: linear-gradient(
+		rgb(110, 172, 218, 0.5),
+		rgb(3, 52, 110, 0.5)
+	), url("./images/contacts-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: #021526;
+}
+
+#linkedin-logo, #github-logo, #discord-logo, #youtube-logo {
+	color: #021526;
+}
+
+#return-to-top-icon {
+	color: #E2E2B6;
+}
